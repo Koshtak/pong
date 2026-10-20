@@ -1,0 +1,13 @@
+[
+  {
+    "file": "pong.c",
+    "arguments": [
+      "gcc",
+      "pong.c",
+      "-o",
+      "game"
+    ],
+    "directory": "/home/emir/game",
+    "output": "game"
+  }
+]
